@@ -2,8 +2,10 @@
 
 - Talend Data Integration Main Features
   - 1.1 Getting Started with Data Integration
+    - Data Integration in contexts
+    - Introduction to the Integration perspective
+    - Implementing a simple ETL
   - 1.2 Working with Files and Databases
-    - prospectives `Arranged collection of views and editors specific to a set of tasks`
   - 1.3 Processing Data in Talend Studio
 
 - Using Repository Metadata and Error Handeling
